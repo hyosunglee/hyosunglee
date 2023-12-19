@@ -1,13 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=happyDay%20&fontSize=90)
-
-
-
-
-
-
-
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🧑🏻‍💻✨📱%20&fontSize=90)
 
 ### ⌨️  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-41AD48?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
 
