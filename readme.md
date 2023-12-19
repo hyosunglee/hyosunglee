@@ -7,4 +7,4 @@
 ### ✉️ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gytjdslazoq@gmail.com)](mailto:gytjdslazoq@gmail.com)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyosunglee)](https://github.com/anuraghazra/github-readme-stats)
