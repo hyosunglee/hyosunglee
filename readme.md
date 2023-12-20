@@ -6,5 +6,4 @@
 
 ### ✉️ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gytjdslazoq@gmail.com)](mailto:gytjdslazoq@gmail.com)
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyosunglee&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
