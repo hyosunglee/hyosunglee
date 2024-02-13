@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/github/languages/count/hyosunglee/swift">
 
-<img src="[https://img.shields.io/github/languages/count/hyosunglee/swift](https://img.shields.io/github/languages/top/hyosunglee/swift)">
+<img src="https://img.shields.io/github/languages/top/hyosunglee/swift">
 
 <img src="https://img.shields.io/github/languages/count/hyosunglee/swift">
 
