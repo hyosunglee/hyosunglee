@@ -6,7 +6,8 @@
 
 ### ✉️ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gytjdslazoq@gmail.com)](mailto:gytjdslazoq@gmail.com)
 
-https://img.shields.io/github/languages/count/beygee/survive 
+https://img.shields.io/github/languages/count/hyosunglee
+/survive 
 
 https://img.shields.io/github/languages/top/beygee/survive
 
