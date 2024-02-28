@@ -10,6 +10,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyosunglee&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-### 프로그래머스 
-<img width="144" alt="스크린샷 2024-02-15 오전 10 10 22" src="https://github.com/hyosunglee/hyosunglee/assets/24516775/a32063ca-d028-4d27-94ed-3d1873a2a735">
+
 
