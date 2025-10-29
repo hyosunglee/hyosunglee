@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=🍎_ioio%20&fontSize=45)
 
-<img src="https://img.shields.io/badge/objective-c-blue?logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/swift-blue?logo=apple&logoColor=white"> 
+<img src="https://img.shields.io/badge/objective-c-blue?logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/swift-blue?logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/python-blue?"> 
 
 ### study_Ai
 
