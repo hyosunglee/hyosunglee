@@ -6,7 +6,7 @@
 
 ### ✉️ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gytjdslazoq@gmail.com)](mailto:gytjdslazoq@gmail.com)
 
-<img src="https://img.shields.io/badge/objective-c-blue?logo=apple&logoColor=white"> <img src="https://img.shields.io/github/languages/count/hyosunglee/swift"> <img src="https://img.shields.io/github/languages/top/hyosunglee/swift"> <img src="https://img.shields.io/github/languages/code-size/hyosunglee"> <img src="https://img.shields.io/github/repo-size/hyosunglee/swift"> <img src="https://img.shields.io/github/issues/hyosunglee/swift"> <img src="https://img.shields.io/github/issues-closed/hyosunglee/swift"> <img src="https://img.shields.io/github/commit-activity/w/hyosunglee/swift"> <img src="https://img.shields.io/github/last-commit/hyosunglee/swift">
+<img src="https://img.shields.io/badge/objective-c-blue?logo=apple&logoColor=white"> <img src="https://img.shields.io/github/languages/count/hyosunglee/swift"> <img src="https://img.shields.io/github/languages/top/hyosunglee/"> <img src="https://img.shields.io/github/languages/code-size/hyosunglee/swift"> <img src="https://img.shields.io/github/repo-size/hyosunglee/swift"> <img src="https://img.shields.io/github/issues/hyosunglee/swift"> <img src="https://img.shields.io/github/issues-closed/hyosunglee/swift"> <img src="https://img.shields.io/github/commit-activity/w/hyosunglee/swift"> <img src="https://img.shields.io/github/last-commit/hyosunglee/swift">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyosunglee&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
