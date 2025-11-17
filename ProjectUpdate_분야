@@ -1,0 +1,32 @@
+현재 시스템의 논문 수집은 arXiv API에서 “reinforcement learning”을 검색하도록 설정돼 있습니다. `server.py`의 `/loop` 라우트에서 논문을 가져오는 부분을 보면 다음과 같이 쿼리 문자열이 고정되어 있습니다:
+
+```python
+# server.py 일부
+if fetch_arxiv_papers:
+    try:
+        papers = fetch_arxiv_papers("reinforcement learning", max_results=5)
+```
+
+또한 수집기 스크립트 `collector.py`는 `collect_and_ingest()` 함수의 기본 매개변수에 `"reinforcement learning"`을 사용합니다. 즉, 현재 코드는 강화학습을 주제로만 논문을 수집하도록 하드코딩돼 있는 셈입니다.
+
+건강 분야로 변경하려면 다음과 같이 검색 키워드를 수정하면 됩니다:
+
+1. **`server.py` 수정** – `/loop` 라우트에서 `fetch_arxiv_papers()`의 첫 번째 인자를 `"health"`나 `"healthcare"`, `"medical"` 등 원하는 건강 관련 키워드로 변경합니다.
+
+   ```python
+   # 예: 건강 분야 논문 5개 수집
+   papers = fetch_arxiv_papers("health", max_results=5)
+   ```
+
+2. **`collector.py` 수정** – `collect_and_ingest()` 함수의 기본 `query` 값을 `"reinforcement learning"`에서 `"health"`로 바꿉니다.
+
+   ```python
+   def collect_and_ingest(query="health", max_results=10):
+       ...
+   ```
+
+3. **사용 시 실시간 지정** – 스크립트를 호출할 때 다른 키워드를 넘겨줄 수도 있습니다. 예를 들어, 명령줄에서 `collect_and_ingest(query="public health")`처럼 호출하면 해당 주제에 맞춘 논문만 가져옵니다.
+
+4. **복수 키워드 조합** – 건강 관련 세부 분야별로 논문을 모으려면 `"health AND artificial intelligence"`처럼 조합해 검색할 수 있습니다. arXiv는 논리연산자(AND/OR)와 따옴표를 허용하므로, 예를 들어 `"medical informatics"`나 `"healthcare agent"` 등 구체적인 검색식도 가능합니다.
+
+이렇게 쿼리 문자열만 바꾸면 논문 수집 대상 분야를 손쉽게 전환할 수 있습니다. 검색 범위를 더 세밀하게 제어하고 싶다면 여러 키워드를 리스트로 저장해 순환하면서 수집하도록 코드를 확장하는 것도 한 방법입니다.
